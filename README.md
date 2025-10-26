@@ -21,14 +21,14 @@
 
  <div id="badges">
   
-   <a href="https://www.linkedin.com/in/mahmudcodes">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/mahmudcodes"/>
+   <a href="https://www.linkedin.com/in/mahmudcfo">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/mahmudcfo"/>
    </a>
 
-   <img  align="right" src="https://komarev.com/ghpvc/?username=mahmudhasan123&label=Profile%20views&color=green&style=flat" alt="mahmudhasan123" />
+   <img  align="right" src="https://komarev.com/ghpvc/?username=mahmudcfo&label=Profile%20views&color=green&style=flat" alt="mahmudcfo" />
    
    <a align="right" href="https://github.com/ferasbbm?tab=followers">
-      <img  align="right" src="https://img.shields.io/github/followers/mahmudhasan123?username=mahmudhasan123&label=Followers" alt="mahmudhasan123" />
+      <img  align="right" src="https://img.shields.io/github/followers/mahmudcfo?username=mahmudcfo&label=Followers" alt="mahmudcfo" />
    </a>
    
 </div>
@@ -36,5 +36,5 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudhasan123)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudcfo)
 
